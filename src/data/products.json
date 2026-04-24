@@ -5,7 +5,7 @@
     "category": "CPUs",
     "price": 289.99,
     "stock": 8,
-    "image": "/images/Intel-Core-i5-14600K.jpg",
+    "image": "images/Intel-Core-i5-14600K.jpg",
     "description": "Fast midrange CPU for gaming and school."
   },
   {
@@ -14,7 +14,7 @@
     "category": "CPUs",
     "price": 399.99,
     "stock": 7,
-    "image": "/images/Intel-Core-i7-14700K.jpg",
+    "image": "images/Intel-Core-i7-14700K.jpg",
     "description": "Strong performance for gaming and multitasking."
   },
   {
@@ -23,7 +23,7 @@
     "category": "CPUs",
     "price": 579.99,
     "stock": 5,
-    "image": "/images/Intel-Core-i9-14900K.jpg",
+    "image": "images/Intel-Core-i9-14900K.jpg",
     "description": "High-end processor for demanding workloads."
   },
   {
@@ -32,7 +32,7 @@
     "category": "CPUs",
     "price": 249.99,
     "stock": 10,
-    "image": "/images/AMD-Ryzen-5-7600X.jpg",
+    "image": "images/AMD-Ryzen-5-7600X.jpg",
     "description": "Affordable gaming CPU with excellent value."
   },
   {
@@ -41,7 +41,7 @@
     "category": "CPUs",
     "price": 339.99,
     "stock": 9,
-    "image": "public/images/AMD-Ryzen-7-7700X.jpg",
+    "image": "images/AMD-Ryzen-7-7700X.jpg",
     "description": "Balanced chip for gaming and productivity."
   },
   {
@@ -50,7 +50,7 @@
     "category": "CPUs",
     "price": 449.99,
     "stock": 6,
-    "image": "public/images/AMD-Ryzen-9-7900X.jpg",
+    "image": "images/AMD-Ryzen-9-7900X.jpg",
     "description": "Powerful processor for creators and gamers."
   },
   {
@@ -59,7 +59,7 @@
     "category": "CPUs",
     "price": 149.99,
     "stock": 12,
-    "image": "public/images/Intel-Core-i3-14100.jpg",
+    "image": "images/Intel-Core-i3-14100.jpg",
     "description": "Budget CPU for entry-level systems."
   },
   {
@@ -68,7 +68,7 @@
     "category": "CPUs",
     "price": 129.99,
     "stock": 11,
-    "image": "public/images/AMD-Ryzen-5-5600.jpg",
+    "image": "images/AMD-Ryzen-5-5600.jpg",
     "description": "Popular value processor for budget builds."
   },
   {
@@ -77,7 +77,7 @@
     "category": "CPUs",
     "price": 329.99,
     "stock": 8,
-    "image": "public/images/Intel-Core-i7-13700F.jpg",
+    "image": "images/Intel-Core-i7-13700F.jpg",
     "description": "Solid CPU for gaming and streaming."
   },
   {
@@ -86,7 +86,7 @@
     "category": "CPUs",
     "price": 219.99,
     "stock": 8,
-    "image": "public/images/AMD-Ryzen-7-5800X.jpg",
+    "image": "images/AMD-Ryzen-7-5800X.jpg",
     "description": "Reliable AM4 CPU with great all-around speed."
   },
 
@@ -96,7 +96,7 @@
     "category": "GPUs",
     "price": 299.99,
     "stock": 9,
-    "image": "public/images/NVIDIA-RTX-4060.jpg",
+    "image": "images/NVIDIA-RTX-4060.jpg",
     "description": "Great 1080p graphics card for modern gaming."
   },
   {
@@ -105,7 +105,7 @@
     "category": "GPUs",
     "price": 399.99,
     "stock": 7,
-    "image": "public/images/NVIDIA-RTX-4060-Ti.jpg",
+    "image": "images/NVIDIA-RTX-4060-Ti.jpg",
     "description": "Smooth 1080p and entry 1440p gaming."
   },
   {
@@ -114,7 +114,7 @@
     "category": "GPUs",
     "price": 549.99,
     "stock": 6,
-    "image": "public/images/NVIDIA-RTX-4070.jpg",
+    "image": "images/NVIDIA-RTX-4070.jpg",
     "description": "Strong 1440p GPU with solid ray tracing."
   },
   {
@@ -123,7 +123,7 @@
     "category": "GPUs",
     "price": 599.99,
     "stock": 5,
-    "image": "public/images/NVIDIA-RTX-4070-Super.jpg",
+    "image": "images/NVIDIA-RTX-4070-Super.jpg",
     "description": "Excellent card for high-refresh 1440p gaming."
   },
   {
@@ -132,7 +132,7 @@
     "category": "GPUs",
     "price": 999.99,
     "stock": 4,
-    "image": "public/images/NVIDIA-RTX-4080-Super.jpg",
+    "image": "images/NVIDIA-RTX-4080-Super.jpg",
     "description": "Premium GPU for demanding settings and workloads."
   },
   {
@@ -141,7 +141,7 @@
     "category": "GPUs",
     "price": 269.99,
     "stock": 9,
-    "image": "public/images/AMD-Radeon-RX-7600.jpg",
+    "image": "images/AMD-Radeon-RX-7600.jpg",
     "description": "Affordable card for 1080p gaming."
   },
   {
@@ -150,7 +150,7 @@
     "category": "GPUs",
     "price": 449.99,
     "stock": 7,
-    "image": "public/images/AMD-Radeon-RX-7700-XT.jpg",
+    "image": "images/AMD-Radeon-RX-7700-XT.jpg",
     "description": "Great value 1440p graphics card."
   },
   {
@@ -159,7 +159,7 @@
     "category": "GPUs",
     "price": 499.99,
     "stock": 6,
-    "image": "public/images/AMD-Radeon-RX-7800-XT.jpg",
+    "image": "images/AMD-Radeon-RX-7800-XT.jpg",
     "description": "Strong performance for 1440p gaming."
   },
   {
@@ -168,7 +168,7 @@
     "category": "GPUs",
     "price": 749.99,
     "stock": 5,
-    "image": "public/images/AMD-Radeon-RX-7900-XT.jpg",
+    "image": "images/AMD-Radeon-RX-7900-XT.jpg",
     "description": "High-end AMD card for serious performance."
   },
   {
@@ -177,7 +177,7 @@
     "category": "GPUs",
     "price": 229.99,
     "stock": 10,
-    "image": "public/images/NVIDIA-RTX-3050.jpg",
+    "image": "images/NVIDIA-RTX-3050.jpg",
     "description": "Entry-level graphics card for budget builds."
   },
 
@@ -187,7 +187,7 @@
     "category": "Motherboards",
     "price": 219.99,
     "stock": 8,
-    "image": "public/images/ASUS-B650-Gaming-WiFi.jpg",
+    "image": "images/ASUS-B650-Gaming-WiFi.jpg",
     "description": "AM5 motherboard with WiFi and PCIe 5.0 support."
   },
   {
@@ -196,7 +196,7 @@
     "category": "Motherboards",
     "price": 199.99,
     "stock": 7,
-    "image": "public/images/MSI-MAG-B650-Tomahawk.jpg",
+    "image": "images/MSI-MAG-B650-Tomahawk.jpg",
     "description": "Reliable AMD board for modern gaming builds."
   },
   {
@@ -205,7 +205,7 @@
     "category": "Motherboards",
     "price": 279.99,
     "stock": 5,
-    "image": "public/images/Gigabyte-X670-Aorus-Elite.jpg",
+    "image": "images/Gigabyte-X670-Aorus-Elite.jpg",
     "description": "Premium AM5 motherboard with strong VRMs."
   },
   {
@@ -214,7 +214,7 @@
     "category": "Motherboards",
     "price": 149.99,
     "stock": 9,
-    "image": "public/images/ASRock-B550-Steel-Legend.jpg",
+    "image": "images/ASRock-B550-Steel-Legend.jpg",
     "description": "AM4 motherboard with solid features and value."
   },
   {
@@ -223,7 +223,7 @@
     "category": "Motherboards",
     "price": 399.99,
     "stock": 4,
-    "image": "public/images/ASUS-ROG-Strix-Z790-E.jpg",
+    "image": "images/ASUS-ROG-Strix-Z790-E.jpg",
     "description": "High-end Intel motherboard for top-tier builds."
   },
   {
@@ -232,7 +232,7 @@
     "category": "Motherboards",
     "price": 229.99,
     "stock": 6,
-    "image": "public/images/MSI-PRO-Z790-P-WiFi.jpg",
+    "image": "images/MSI-PRO-Z790-P-WiFi.jpg",
     "description": "Intel motherboard with DDR5 support and WiFi."
   },
   {
@@ -241,7 +241,7 @@
     "category": "Motherboards",
     "price": 139.99,
     "stock": 10,
-    "image": "public/images/Gigabyte-B760-DS3H.jpg",
+    "image": "images/Gigabyte-B760-DS3H.jpg",
     "description": "Budget Intel board for mainstream builds."
   },
   {
@@ -250,7 +250,7 @@
     "category": "Motherboards",
     "price": 99.99,
     "stock": 12,
-    "image": "public/images/ASUS-Prime-H610M-E.jpg",
+    "image": "images/ASUS-Prime-H610M-E.jpg",
     "description": "Entry-level micro ATX motherboard for Intel CPUs."
   },
   {
@@ -259,7 +259,7 @@
     "category": "Motherboards",
     "price": 109.99,
     "stock": 11,
-    "image": "public/images/MSI-B550M-PRO-VDH.jpg",
+    "image": "images/MSI-B550M-PRO-VDH.jpg",
     "description": "Compact AM4 motherboard with great budget value."
   },
   {
@@ -268,7 +268,7 @@
     "category": "Motherboards",
     "price": 179.99,
     "stock": 6,
-    "image": "public/images/ASRock-X570-Phantom-Gaming-4.jpg",
+    "image": "images/ASRock-X570-Phantom-Gaming-4.jpg",
     "description": "AM4 motherboard with PCIe 4.0 support."
   },
 
@@ -278,7 +278,7 @@
     "category": "RAM",
     "price": 49.99,
     "stock": 14,
-    "image": "public/images/Corsair-16GB-DDR4-3200.jpg",
+    "image": "images/Corsair-16GB-DDR4-3200.jpg",
     "description": "Budget-friendly DDR4 kit for everyday builds."
   },
   {
@@ -287,7 +287,7 @@
     "category": "RAM",
     "price": 59.99,
     "stock": 12,
-    "image": "public/images/G.Skill-16GB-DDR4-3600.jpg",
+    "image": "images/G.Skill-16GB-DDR4-3600.jpg",
     "description": "Affordable DDR4 memory for budget gaming systems."
   },
   {
@@ -296,7 +296,7 @@
     "category": "RAM",
     "price": 89.99,
     "stock": 10,
-    "image": "public/images/Kingston-Fury-32GB-DDR4-3600.jpg",
+    "image": "images/Kingston-Fury-32GB-DDR4-3600.jpg",
     "description": "Larger DDR4 kit for multitasking and gaming."
   },
   {
@@ -305,7 +305,7 @@
     "category": "RAM",
     "price": 109.99,
     "stock": 9,
-    "image": "public/images/Corsair-32GB-DDR5-5600.jpg",
+    "image": "images/Corsair-32GB-DDR5-5600.jpg",
     "description": "Modern DDR5 memory for new-generation builds."
   },
   {
@@ -314,7 +314,7 @@
     "category": "RAM",
     "price": 119.99,
     "stock": 10,
-    "image": "public/images/Corsair-32GB-DDR5-6000.jpg",
+    "image": "images/Corsair-32GB-DDR5-6000.jpg",
     "description": "Fast DDR5 memory kit for gaming builds."
   },
   {
@@ -323,7 +323,7 @@
     "category": "RAM",
     "price": 149.99,
     "stock": 7,
-    "image": "public/images/G.Skill-Trident-Z5-32GB-DDR5-6400.jpg",
+    "image": "images/G.Skill-Trident-Z5-32GB-DDR5-6400.jpg",
     "description": "High-performance DDR5 kit for enthusiasts."
   },
   {
@@ -332,7 +332,7 @@
     "category": "RAM",
     "price": 69.99,
     "stock": 11,
-    "image": "public/images/TeamGroup-T-Force-16GB-DDR5-5200.jpg",
+    "image": "images/TeamGroup-T-Force-16GB-DDR5-5200.jpg",
     "description": "Entry-level DDR5 RAM for value-focused new PCs."
   },
   {
@@ -341,7 +341,7 @@
     "category": "RAM",
     "price": 199.99,
     "stock": 5,
-    "image": "public/images/Crucial-64GB-DDR5-5600.jpg",
+    "image": "images/Crucial-64GB-DDR5-5600.jpg",
     "description": "Large-capacity DDR5 kit for heavy workloads."
   },
   {
@@ -350,7 +350,7 @@
     "category": "RAM",
     "price": 79.99,
     "stock": 9,
-    "image": "public/images/Patriot-Viper-32GB-DDR4-3200.jpg",
+    "image": "images/Patriot-Viper-32GB-DDR4-3200.jpg",
     "description": "Reliable DDR4 memory for older platforms."
   },
   {
@@ -359,7 +359,7 @@
     "category": "RAM",
     "price": 44.99,
     "stock": 13,
-    "image": "public/images/ADATA-XPG-16GB-DDR4-3000.jpg",
+    "image": "images/ADATA-XPG-16GB-DDR4-3000.jpg",
     "description": "Budget DDR4 kit for simple gaming and school builds."
   },
 
@@ -369,7 +369,7 @@
     "category": "CPU Coolers",
     "price": 39.99,
     "stock": 12,
-    "image": "public/images/Cooler-Master-Hyper-212.jpg",
+    "image": "images/Cooler-Master-Hyper-212.jpg",
     "description": "Classic air cooler with solid value and performance."
   },
   {
@@ -378,7 +378,7 @@
     "category": "CPU Coolers",
     "price": 79.99,
     "stock": 8,
-    "image": "public/images/Noctua-NH-U12S.jpg",
+    "image": "images/Noctua-NH-U12S.jpg",
     "description": "Quiet premium air cooler for reliable performance."
   },
   {
@@ -387,7 +387,7 @@
     "category": "CPU Coolers",
     "price": 44.99,
     "stock": 10,
-    "image": "public/images/be-quiet-Pure-Rock-2.jpg",
+    "image": "images/be-quiet-Pure-Rock-2.jpg",
     "description": "Silent air cooling for midrange systems."
   },
   {
@@ -396,7 +396,7 @@
     "category": "CPU Coolers",
     "price": 34.99,
     "stock": 11,
-    "image": "public/images/DeepCool-AK400.jpg",
+    "image": "images/DeepCool-AK400.jpg",
     "description": "Affordable air cooler with strong cooling efficiency."
   },
   {
@@ -405,7 +405,7 @@
     "category": "CPU Coolers",
     "price": 64.99,
     "stock": 7,
-    "image": "public/images/DeepCool-AK620.jpg",
+    "image": "images/DeepCool-AK620.jpg",
     "description": "Dual-tower air cooler for higher-end CPUs."
   },
   {
@@ -414,7 +414,7 @@
     "category": "CPU Coolers",
     "price": 139.99,
     "stock": 6,
-    "image": "public/images/NZXT-Kraken-240.jpg",
+    "image": "images/NZXT-Kraken-240.jpg",
     "description": "240mm liquid cooler with a clean modern look."
   },
   {
@@ -423,7 +423,7 @@
     "category": "CPU Coolers",
     "price": 149.99,
     "stock": 5,
-    "image": "public/images/Corsair-iCUE-H100i-Elite.jpg",
+    "image": "images/Corsair-iCUE-H100i-Elite.jpg",
     "description": "RGB 240mm liquid cooler for gaming systems."
   },
   {
@@ -432,7 +432,7 @@
     "category": "CPU Coolers",
     "price": 119.99,
     "stock": 6,
-    "image": "public/images/Arctic-Liquid-Freezer-II-280.jpg",
+    "image": "images/Arctic-Liquid-Freezer-II-280.jpg",
     "description": "Popular AIO cooler with strong thermal performance."
   },
   {
@@ -441,7 +441,7 @@
     "category": "CPU Coolers",
     "price": 42.99,
     "stock": 10,
-    "image": "public/images/Thermalright-Peerless-Assassin-120.jpg",
+    "image": "images/Thermalright-Peerless-Assassin-120.jpg",
     "description": "Excellent-value dual-tower air cooler."
   },
   {
@@ -450,7 +450,7 @@
     "category": "CPU Coolers",
     "price": 169.99,
     "stock": 4,
-    "image": "public/images/Lian-Li-Galahad-360.jpg",
+    "image": "images/Lian-Li-Galahad-360.jpg",
     "description": "360mm liquid cooler for premium builds."
   },
 
@@ -460,7 +460,7 @@
     "category": "Cases",
     "price": 94.99,
     "stock": 9,
-    "image": "public/images/NZXT-H5-Flow.jpg",
+    "image": "images/NZXT-H5-Flow.jpg",
     "description": "Airflow-focused mid-tower case with clean design."
   },
   {
@@ -469,7 +469,7 @@
     "category": "Cases",
     "price": 104.99,
     "stock": 8,
-    "image": "public/images/Corsair-4000D-Airflow.jpg",
+    "image": "images/Corsair-4000D-Airflow.jpg",
     "description": "One of the most popular airflow gaming cases."
   },
   {
@@ -478,7 +478,7 @@
     "category": "Cases",
     "price": 109.99,
     "stock": 7,
-    "image": "public/images/Lian-Li-Lancool-216.jpg",
+    "image": "images/Lian-Li-Lancool-216.jpg",
     "description": "High airflow case with spacious interior."
   },
   {
@@ -487,7 +487,7 @@
     "category": "Cases",
     "price": 89.99,
     "stock": 8,
-    "image": "public/images/Fractal-Design-Pop-Air.jpg",
+    "image": "images/Fractal-Design-Pop-Air.jpg",
     "description": "Stylish mid-tower with good cooling support."
   },
   {
@@ -496,7 +496,7 @@
     "category": "Cases",
     "price": 99.99,
     "stock": 7,
-    "image": "public/images/Phanteks-Eclipse-G360A.jpg",
+    "image": "images/Phanteks-Eclipse-G360A.jpg",
     "description": "Mesh front case with excellent airflow."
   },
   {
@@ -505,7 +505,7 @@
     "category": "Cases",
     "price": 119.99,
     "stock": 6,
-    "image": "public/images/Cooler-Master-TD500-Mesh.jpg",
+    "image": "images/Cooler-Master-TD500-Mesh.jpg",
     "description": "Tempered glass case with strong airflow."
   },
   {
@@ -514,7 +514,7 @@
     "category": "Cases",
     "price": 189.99,
     "stock": 4,
-    "image": "public/images/Hyte-Y60.jpg",
+    "image": "images/Hyte-Y60.jpg",
     "description": "Panoramic case built for showcase gaming rigs."
   },
   {
@@ -523,7 +523,7 @@
     "category": "Cases",
     "price": 169.99,
     "stock": 5,
-    "image": "public/images/Lian-Li-O11-Dynamic-EVO.jpg",
+    "image": "images/Lian-Li-O11-Dynamic-EVO.jpg",
     "description": "Premium dual-chamber case for custom-looking builds."
   },
   {
@@ -532,7 +532,7 @@
     "category": "Cases",
     "price": 74.99,
     "stock": 10,
-    "image": "public/images/Montech-Air-903-Max.jpg",
+    "image": "images/Montech-Air-903-Max.jpg",
     "description": "Budget case with impressive airflow."
   },
   {
@@ -541,7 +541,7 @@
     "category": "Cases",
     "price": 109.99,
     "stock": 6,
-    "image": "public/images/be-quiet-Pure-Base-500DX.jpg",
+    "image": "images/be-quiet-Pure-Base-500DX.jpg",
     "description": "Quiet, clean case with airflow and RGB accents."
   },
 
@@ -551,7 +551,7 @@
     "category": "Prebuilt PCs",
     "price": 899.99,
     "stock": 5,
-    "image": "public/images/Rush-Starter-Gaming-PC.jpg",
+    "image": "images/Rush-Starter-Gaming-PC.jpg",
     "description": "Ryzen 5, RTX 4060, 16GB DDR5 RAM, 1TB SSD."
   },
   {
@@ -560,7 +560,7 @@
     "category": "Prebuilt PCs",
     "price": 999.99,
     "stock": 4,
-    "image": "public/images/Rush-1080p-Pro-PC.jpg",
+    "image": "images/Rush-1080p-Pro-PC.jpg",
     "description": "Intel i5, RTX 4060 Ti, 16GB RAM, 1TB SSD."
   },
   {
@@ -569,7 +569,7 @@
     "category": "Prebuilt PCs",
     "price": 1299.99,
     "stock": 4,
-    "image": "public/images/Rush-Creator-PC.jpg",
+    "image": "images/Rush-Creator-PC.jpg",
     "description": "Ryzen 7, RTX 4070, 32GB DDR5 RAM, 2TB SSD."
   },
   {
@@ -578,7 +578,7 @@
     "category": "Prebuilt PCs",
     "price": 1499.99,
     "stock": 3,
-    "image": "public/images/Rush-Elite-Streaming-PC.jpg",
+    "image": "images/Rush-Elite-Streaming-PC.jpg",
     "description": "Intel i7, RTX 4070, 32GB RAM, built for streaming."
   },
   {
@@ -587,7 +587,7 @@
     "category": "Prebuilt PCs",
     "price": 1799.99,
     "stock": 3,
-    "image": "public/images/Rush-1440p-Beast.jpg",
+    "image": "images/Rush-1440p-Beast.jpg",
     "description": "Ryzen 7, RTX 4070 Super, 32GB DDR5, 2TB SSD."
   },
   {
@@ -596,7 +596,7 @@
     "category": "Prebuilt PCs",
     "price": 2499.99,
     "stock": 2,
-    "image": "public/images/Rush-4K-Powerhouse.jpg",
+    "image": "images/Rush-4K-Powerhouse.jpg",
     "description": "Intel i9, RTX 4080 Super, 64GB DDR5, 2TB SSD."
   },
   {
@@ -605,7 +605,7 @@
     "category": "Prebuilt PCs",
     "price": 599.99,
     "stock": 6,
-    "image": "public/images/Rush-Budget-School-PC.jpg",
+    "image": "images/Rush-Budget-School-PC.jpg",
     "description": "Affordable desktop for schoolwork and everyday tasks."
   },
   {
@@ -614,7 +614,7 @@
     "category": "Prebuilt PCs",
     "price": 1099.99,
     "stock": 4,
-    "image": "public/images/Rush-Cyber-Lab-PC.jpg",
+    "image": "images/Rush-Cyber-Lab-PC.jpg",
     "description": "Built for students learning IT, networking, and labs."
   },
   {
@@ -623,7 +623,7 @@
     "category": "Prebuilt PCs",
     "price": 749.99,
     "stock": 5,
-    "image": "public/images/Rush-Compact-Mini-PC.jpg",
+    "image": "images/Rush-Compact-Mini-PC.jpg",
     "description": "Small-form-factor system for desks with limited space."
   },
   {
@@ -632,7 +632,7 @@
     "category": "Prebuilt PCs",
     "price": 1599.99,
     "stock": 3,
-    "image": "public/images/Rush-RGB-Showcase-PC.jpg",
+    "image": "images/Rush-RGB-Showcase-PC.jpg",
     "description": "Tempered-glass gaming PC with strong performance and RGB."
   }
 ]

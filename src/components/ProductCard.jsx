@@ -3,7 +3,11 @@ import { Card, Button, Badge } from "react-bootstrap";
 function ProductCard({ product, addToCart }) {
   return (
     <Card className="h-100 shadow-sm product-card">
-      <Card.Img variant="top" src={product.image} alt={product.name} />
+      <Card.Img
+  variant="top"
+  src={`${import.meta.env.BASE_URL}${product.image}`}
+  alt={product.name}
+/>
       <Card.Body className="d-flex flex-column">
         <div className="mb-2">
           <Badge bg="secondary">{product.category}</Badge>
